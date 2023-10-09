@@ -15,4 +15,5 @@
 ![](hex/webBotparseR.png)
 ![](hex/webtrackR.png)
 ![](hex/stabilityAI.png)
+![](hex/rang.png)
 ![](hex/rokemon.png)
