@@ -17,4 +17,5 @@
 ![](hex/stabilityAI.png)
 ![](hex/rang.png)
 ![](hex/domainator.png)
+![](hex/dialrs.png)
 ![](hex/rokemon.png)
