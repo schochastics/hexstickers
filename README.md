@@ -21,4 +21,5 @@
 ![](hex/timeless.png)
 ![](hex/shortuuid.png)
 ![](hex/oaqc.png)  
+![](hex/paperwizard.png)  
 ![](hex/rokemon.png)
