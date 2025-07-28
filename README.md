@@ -23,5 +23,6 @@
 ![](hex/oaqc.png)  
 ![](hex/paperwizard.png)  
 ![](hex/rchroma.png)  
-![](hex/RBexio.png)  
+![](hex/RBexio.png) 
+![](hex/dexid.png)
 ![](hex/rokemon.png)
