@@ -26,4 +26,5 @@
 ![](hex/RBexio.png) 
 ![](hex/dexid.png)  
 ![](hex/ggrough2.png)  
+![](hex/vhsR.png)  
 ![](hex/rokemon.png)
